@@ -1,8 +1,7 @@
 # google-data-analytics-capstone-project-Cyclistic-
 # collect and Prepare
-1)	 Downloaded the previous 12 months of cyclistic trip data
-By using Microsoft SQL server
-2)   Combine 12 month data into single table of whole year using union query.
+1)	 Downloaded the previous 12 months of cyclistic trip data.
+2)  By using Microsoft SQL server Combine 12 month data into single table of whole year using union query.
 3)   Delete rows where end_station_name, start_station_name, end_station_id and start_station_id are null Using delete command. 
 4)   Delete duplicate value of ride id
 5)   Add column ride_length,[year],[date],day_of_the_week,[month] using alter table and update query.
