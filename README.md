@@ -1,5 +1,5 @@
 # google-data-analytics-capstone-project-Cyclistic-
-# Prepare
+# collect and Prepare
 1)	 Downloaded the previous 12 months of cyclistic trip data
 By using Microsoft SQL server
 2)   Combine 12 month data into single table of whole year using union query.
